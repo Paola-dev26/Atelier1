@@ -1,7 +1,30 @@
 #include <stdio.h>
 
 int main() {
-    printf("Bonjour tous le monde!\n");
-    printf("ça va ?\n");
-    return 0;
-}
+int main() {
+   printf("+------------------------------------------------------------------------+\n");
+   printf("|                                                                        |\n" );                                                                         
+   printf("|                                                                        |\n" );                                                       
+   printf("|                                                                        |\n" );
+   printf("|                                                                        |\n" );
+   printf("|                                                                        |\n" );
+   printf("|                                                                        |\n" );
+   printf("|                                                                        |\n" );
+   printf("|                                                                        |\n" );
+   printf("|                                                                        |\n" );
+   printf("|                                                                        |\n" );
+   printf("|                                                                        |\n" );
+   printf("|                                                                        |\n" );
+   printf("|                                                                        |\n" );
+   printf("|                                                                        |\n" );
+   printf("|                                                                        |\n" );
+   printf("|                                                                        |\n" );
+   printf("|                                                                        |\n" );
+   printf("|                                                                        |\n" );
+   printf("|                                                                        |\n" );
+   printf("|                                                                        |\n" );
+   printf("|                                                                        |\n" );
+   printf("|                                                                        |\n" );
+   printf("|                                                                        |\n" );
+   printf("|                                                                        |\n" );
+   printf("+------------------------------------------------------------------------+\n");
